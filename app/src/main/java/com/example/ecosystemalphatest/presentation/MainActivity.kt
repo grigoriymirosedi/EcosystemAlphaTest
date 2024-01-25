@@ -1,7 +1,8 @@
-package com.example.ecosystemalphatest
+package com.example.ecosystemalphatest.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.ecosystemalphatest.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
