@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
                 else -> {
                     Toast.makeText(
                         this,
-                        "An error occured. Please check the Internet connection", Toast.LENGTH_SHORT
+                        "An error occurred. Please check the Internet connection", Toast.LENGTH_SHORT
                     ).show()
                     hideProgressBar()
                 }
